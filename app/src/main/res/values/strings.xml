@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="start_alarm">START</string>
+    <string name="CURR_TIME">Current Time</string>
+    <string name="ALARM_TIME">Alarm Time</string>
+    <string name="ALARM_MESS">ALARM TIME REACHED</string>
+    <string name="STOP_ALARM">STOP</string>
+    <string name="RESET_ALARM">RESET</string>
+</resources>
